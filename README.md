@@ -11,6 +11,7 @@
 - 💞️ I’m looking to collaborate on
   1. Web Development
   2. RPA
+  3. Software Development (Python)
 - 📫 How to reach me
   1. Email: labibfarhan10@gmail.com
   2. LinkedIn: https://www.linkedin.com/in/farhan-labib-9a7738285/
